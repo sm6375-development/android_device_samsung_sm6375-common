@@ -78,8 +78,8 @@ vendor/lib/spatializer-aidl-V1-cpp.so
 vendor/etc/audio_tuning_mixer.txt
 
 # Soundtrigger
-vendor/lib/hw/sound_trigger.primary.lahaina.so
-vendor/lib64/hw/sound_trigger.primary.lahaina.so
+vendor/lib/hw/sound_trigger.primary.blair.so
+vendor/lib64/hw/sound_trigger.primary.blair.so
 vendor/lib/libaudio_soundtrigger.so
 vendor/lib/libgcs.so
 vendor/lib/libgcs-ipc.so
