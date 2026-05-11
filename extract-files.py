@@ -19,7 +19,7 @@ from extract_utils.main import (
 
 
 namespace_imports = [
-    'device/samsung/sm7325-common',
+    'device/samsung/sm6375-common',
     'hardware/qcom-caf/sm8350',
     'hardware/qcom-caf/wlan',
     'hardware/samsung',
@@ -49,7 +49,7 @@ blob_fixups: blob_fixups_user_type = {
 }  # fmt: skip
 
 module = ExtractUtilsModule(
-    'sm7325-common',
+    'sm6375-common',
     'samsung',
     blob_fixups=blob_fixups,
     lib_fixups=lib_fixups,

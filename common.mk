@@ -372,4 +372,4 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/samsung
 
 # Inherit proprietary blobs
-$(call inherit-product, vendor/samsung/sm7325-common/sm7325-common-vendor.mk)
+$(call inherit-product, vendor/samsung/sm6375-common/sm6375-common-vendor.mk)
